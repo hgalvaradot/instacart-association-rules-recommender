@@ -1,0 +1,7 @@
+*.csv
+*.pkl
+data/
+artefactos/
+notebooks/nucleo_reglas.py
+.ipynb_checkpoints/
+__pycache__/
